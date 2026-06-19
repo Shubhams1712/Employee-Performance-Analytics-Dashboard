@@ -63,7 +63,7 @@ employee-performance-dashboard/
 ```
 ---
 
-## 📈 Charts
+## 📉 Charts
 
 <img width="320" height="240" alt="Department wise employee count" src="https://github.com/user-attachments/assets/b53ca3b5-27cd-47cd-bd4b-ef484aa0e4b7" />
 <img width="320" height="240" alt="Department wise salary count" src="https://github.com/user-attachments/assets/68e435c3-3cf3-4cf9-a0b2-9878f031245c" />
