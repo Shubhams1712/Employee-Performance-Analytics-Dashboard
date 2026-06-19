@@ -1,0 +1,62 @@
+====== Employee Analytics Report ======
+
+Total Employees: 100
+
+Average Salary: 87277.53
+
+Highest Salary: 159514.0
+
+Lowest Salary: 31643.0
+
+Average Rating: 3.92
+
+Average Leaves: 2.22
+
+Average Overtime: 12.52
+
+Department-wise Employee Count:
+Department
+HR             21
+Marketing      20
+Finance        17
+Engineering    14
+Operations     14
+Sales          10
+sales           1
+
+Department-wise Average Salary:
+Department
+Engineering    82368.14
+Finance        87635.96
+HR             90534.87
+Marketing      87199.70
+Operations     97198.88
+Sales          72635.60
+sales          86290.00
+
+Top Performer:
+    Employee_ID     Name   Department  Rating
+4          1027   Neeraj    Marketing     5.0
+47         1089     Anil          NaN     5.0
+92         1043   Gaurav        Sales     5.0
+0          1050  Deepika           HR     4.9
+28         1044     Ritu    Marketing     4.9
+49         1074   Vikram          NaN     4.9
+72         1054    Rahul      Finance     4.8
+99         1024     Anil  Engineering     4.8
+27         1019   JYOTI            HR     4.8
+61         1017     Ritu   Operations     4.7
+
+Bottom Performer:
+    Employee_ID      Name   Department   Age  Working_Hours  Tasks_Completed  Leaves  Overtime_Hours  Rating         Salary  Performance_Score Performance_Category
+17         1047  Abhishek    Marketing  31.0            165               40       1              13     3.0  108271.000000              237.0                 Good
+39         1099      Amit  Engineering  37.0            161               65       0               5     3.0   89524.000000              278.0            Excellent
+38         1081    Sanjay   Operations   NaN            154               62       5              10     3.0   86205.313131              251.0            Excellent
+68         1081    Sanjay   Operations  45.0            154               62       5              10     3.0  145057.000000              251.0            Excellent
+5          1060      Amit  Engineering  41.0            164               42       1               0     3.1   91138.000000              223.0                 Good
+48         1080     Sneha   Operations  41.0            188               37       4              25     3.1   94913.000000              247.5                 Good
+7          1095     Priya        Sales  52.0            157               34       3              15     3.1   97026.000000              216.0                 Good
+9          1051   NEERAJ    Operations  54.0            175               64       2               0     3.2  124237.000000              269.5            Excellent
+52         1042     Vijay  Engineering  38.0            182               61       2               1     3.2   87759.000000              268.5            Excellent
+93         1090    Neeraj   Operations  51.0            167               49       2               7     3.2  115242.000000              246.0                 Good
+
