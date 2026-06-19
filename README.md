@@ -61,6 +61,16 @@ employee-performance-dashboard/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+## Charts
+
+<img width="320" height="240" alt="Department wise employee count" src="https://github.com/user-attachments/assets/b53ca3b5-27cd-47cd-bd4b-ef484aa0e4b7" />
+<img width="320" height="240" alt="Department wise salary count" src="https://github.com/user-attachments/assets/68e435c3-3cf3-4cf9-a0b2-9878f031245c" />
+<img width="320" height="240" alt="Employees Rating" src="https://github.com/user-attachments/assets/cd151060-2a0b-4eb1-aed6-55d8a677865b" />
+<img width="320" height="240" alt="Salary Record" src="https://github.com/user-attachments/assets/6da8c4fb-0461-4f5b-9c66-9cf47aff4c29" />
+<img width="320" height="240" alt="Top 10 Employees" src="https://github.com/user-attachments/assets/a1b9ebee-c21b-44fb-88ec-e17b46bad034" />
+
 
 ---
 
